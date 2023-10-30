@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
-import ContactListPage from "./components/ContactListPage"
-import AddContact from './components/AddContact'
-import Navbar from "./components/Navbar"
+import ContactListPage from "./components/ContactListPage.tsx"
+import AddContact from './components/AddContact.tsx'
+import Navbar from "./components/Navbar.tsx"
 
 function App() {
 
